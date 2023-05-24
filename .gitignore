@@ -1,0 +1,8 @@
+.idea/
+node_modules/
+gulpenv.js
+package-lock.json
+composer.lock
+
+# Ignore DS_store MAC
+.DS_Store

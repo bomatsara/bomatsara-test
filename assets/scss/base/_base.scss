@@ -1,0 +1,15 @@
+*, *:before, *:after {
+  -webkit-box-sizing: border-box !important;
+  -moz-box-sizing: border-box !important;
+  box-sizing: border-box !important;
+}
+
+html, body {
+  overflow-x: clip;
+}
+
+.cssGrid {
+  display: grid;
+  display: -ms-grid;
+  position: relative;
+}
